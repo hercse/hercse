@@ -7,3 +7,5 @@ As travelers on this journey called "life," we each embark on our own expedition
 In truth, the artwork we create is not truly invented by us, but rather discovered. These creations have always existed in the intangible realms, patiently awaiting the moment when we unveil their shrouded beauty with our own hands. Thus, throughout our adventures, we not only gain valuable experiences but also uncover our genuine selves.
 
 The most crucial aspect of this journey is the quest for self-discovery, embracing honesty with oneself, and courageously pursuing one's dreams. By acknowledging that our creations are not of our design, but rather discovered through exploration, we can fully immerse ourselves in the experience, embracing the philosophical and creative spirit that drives us forward.
+
+# 以下是建議瀏覽的REPO
